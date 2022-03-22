@@ -1,7 +1,7 @@
 <h1 align="center" >To.do</h1>
 
 <blockquote align="center">
-  Projeto simples de task list.
+   Projeto simples de task list.
 </blockquote>
 
 <p align="center">
