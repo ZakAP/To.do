@@ -1,11 +1,11 @@
 <h1 align="center" >To.do</h1>
 
 <blockquote align="center">
-   Projeto simples de task list.
+   Simple task list project.
 </blockquote>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/cazuza/" target="_blank">
+  <a href="https://www.linkedin.com/in/zak-almeida-phillips-5a789366/" target="_blank">
     <img alt="Author: Zak Almeida Phillips" src="https://img.shields.io/badge/Author-Zak Almeida Phillips-026aa7">
   </a>
 
