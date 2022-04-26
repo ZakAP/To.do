@@ -14,13 +14,13 @@
   <img alt="Language: Typescript" src="https://img.shields.io/badge/Language-TypeScript-026aa7">
 </p>
 
-<p align="center">
+<h3 align="center">
 |&nbsp;&nbsp;&nbsp;
   <a href="https://zakap.github.io/To.do/" target="_blank">
     Live Demo
   </a>
   &nbsp;&nbsp;&nbsp;|
-</p>
+</h3>
 
 <div align="center">
   <img  src="https://user-images.githubusercontent.com/79457230/159572218-6d0c87a1-9e9d-4c2b-a50b-8f2ba803dcd1.png" alt="" width="500px" />
